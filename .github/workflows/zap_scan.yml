@@ -1,4 +1,4 @@
-name: ZAP DAST Scan
+name: ZAP DAST Scanning
 
 on:
   push:
