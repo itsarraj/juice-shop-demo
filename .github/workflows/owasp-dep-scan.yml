@@ -21,7 +21,7 @@ jobs:
       - uses: AppThreat/dep-scan-action@master
         with:
           # The target directory to be scanned. Optional.
-          src: /github/workspace
+          src: /github/Dockerfile
           # Output file for the generated report. Optional.
           report_file: /github/workspace/reports/depscan.json
           # Must equal "I have sponsored OWASP-dep-scan" for action to run. Required.
