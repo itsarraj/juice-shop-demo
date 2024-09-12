@@ -1,4 +1,4 @@
-name: owasp-dep-scan
+name: owasp-dep-scanning
 on:
   push:
     branches:
